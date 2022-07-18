@@ -80,4 +80,9 @@ main .marco table tbody .negrita {
 main .marco table tbody .linea {
   border-bottom: 1px solid white;
 }
+
+main .marco table tbody .parentesis {
+  font-weight: 300;
+  font-size: 0.80rem;
+}
 /*# sourceMappingURL=style.css.map */
